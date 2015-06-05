@@ -1,0 +1,32 @@
+<div class='hero-carousel carousel-blur carousel-blur-arrows carousel-blur-pagination flexslider' id='carousel-example-1'>
+          <ul class='slides'>
+            <li class='item'>
+              <div class='container'>
+                <div class='row'>
+                  <div class='col-lg-12 animate'>
+                    <h1 class='big fadeInUp animated'>
+                      ALTLES
+                    </h1>
+                    <p class='normal fadeInUp animated'>****************************************************</p>
+                    <a class='btn btn-contrast btn-lg fadeInRight animated' href='#'>
+                      Kontakt
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class='item'>
+              <div class='container'>
+                <div class='row'>
+                  <div class='col-lg-12 animate'>
+                    <a class='btn btn-warning btn-lg fadeInDownBig animated pull-left' href='#'>
+                      ********
+                      <a class="btn btn-danger btn-lg fadeInDownBig animated pull-left" href="#">*********
+                      </a>
+                    <p class='normal fadeInRightBig animated'></p>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
